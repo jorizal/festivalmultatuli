@@ -1,0 +1,14 @@
+/* @media (min-width: 1200px){
+    .container {
+        max-width: 1266px;
+    }
+} */
+.header{
+    padding: 20px 40px 0 40px;
+    font-family: 'open sans'
+}
+.header img{
+    width: 200px;
+    float: right;
+    object-fit: cover;
+}
