@@ -1,8 +1,8 @@
-/* @media (min-width: 1200px){
+@media (min-width: 1266px){
     .container {
         max-width: 1266px;
     }
-} */
+} 
 .header{
     padding: 20px 40px 0 40px;
     font-family: 'open sans'
